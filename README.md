@@ -1,4 +1,4 @@
-# BirdFlock
+# Brownian Motion
 A graphics program simulating Brownian Motion;
 
 ### implementations
