@@ -1,37 +1,37 @@
 [
 {
-  "directory": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock",
-  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/BirdFLock.dir/main.cpp.o -c /Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/main.cpp",
-  "file": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/main.cpp"
+  "directory": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Graphs.dir/main.cpp.o -c /Users/hamzalah/Documents/gitProjects/Graphs/Graphs/main.cpp",
+  "file": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs/main.cpp"
 },
 {
-  "directory": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock",
-  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/BirdFLock.dir/newVulkanApp.cpp.o -c /Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/newVulkanApp.cpp",
-  "file": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/newVulkanApp.cpp"
+  "directory": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Graphs.dir/newVulkanApp.cpp.o -c /Users/hamzalah/Documents/gitProjects/Graphs/Graphs/newVulkanApp.cpp",
+  "file": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs/newVulkanApp.cpp"
 },
 {
-  "directory": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock",
-  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/BirdFLock.dir/vulkanWindow.cpp.o -c /Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanWindow.cpp",
-  "file": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanWindow.cpp"
+  "directory": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Graphs.dir/vulkanWindow.cpp.o -c /Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanWindow.cpp",
+  "file": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanWindow.cpp"
 },
 {
-  "directory": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock",
-  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/BirdFLock.dir/vulkanPipeline.cpp.o -c /Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanPipeline.cpp",
-  "file": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanPipeline.cpp"
+  "directory": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Graphs.dir/vulkanPipeline.cpp.o -c /Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanPipeline.cpp",
+  "file": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanPipeline.cpp"
 },
 {
-  "directory": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock",
-  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/BirdFLock.dir/vulkanDevice.cpp.o -c /Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanDevice.cpp",
-  "file": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanDevice.cpp"
+  "directory": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Graphs.dir/vulkanDevice.cpp.o -c /Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanDevice.cpp",
+  "file": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanDevice.cpp"
 },
 {
-  "directory": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock",
-  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/BirdFLock.dir/vulkanSwapChain.cpp.o -c /Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanSwapChain.cpp",
-  "file": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanSwapChain.cpp"
+  "directory": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Graphs.dir/vulkanSwapChain.cpp.o -c /Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanSwapChain.cpp",
+  "file": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanSwapChain.cpp"
 },
 {
-  "directory": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock",
-  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/BirdFLock.dir/vulkanModel.cpp.o -c /Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanModel.cpp",
-  "file": "/Users/hamzalah/Documents/gitProjects/BirdFlock/BirdFlock/vulkanModel.cpp"
+  "directory": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/hamzalah/VulkanSDK/macOS/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Graphs.dir/vulkanModel.cpp.o -c /Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanModel.cpp",
+  "file": "/Users/hamzalah/Documents/gitProjects/Graphs/Graphs/vulkanModel.cpp"
 }
 ]
