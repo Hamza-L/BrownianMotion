@@ -5,7 +5,9 @@
 #ifndef VULKANTESTING_TRIANGLE_H
 #define VULKANTESTING_TRIANGLE_H
 
-class Triangle {
+#include "Node.h"
+
+class Triangle : public Node{
 private:
     int size;
     std::vector<Vertex> vertices;
@@ -13,9 +15,9 @@ private:
 public:
     Triangle(){
         Vertex v0,v1,v2;
-        v0.pos = {0.0f, -0.5f, 0.0f};
-        v1.pos = {0.5f, 0.5f, 0.0f};
-        v2.pos = {-0.5f, 0.5f, 0.0f};
+        v0.position = {0.0f, -0.5f, 0.0f};
+        v1.position = {0.5f, 0.5f, 0.0f};
+        v2.position = {-0.5f, 0.5f, 0.0f};
 
         v0.colour = {1.0f, 1.0f, 1.0f,1.0f};
         v1.colour = {0.0f, 1.0f,0.0f,1.0f};

@@ -132,6 +132,7 @@ namespace hva{
         createInfo.codeSize = code.size();
         createInfo.pCode = reinterpret_cast<const uint32_t*>(code.data());
         createInfo.flags = 0;
+        createInfo.pNext = nullptr;
 
         if(vkCreateShaderModule(device.device(), &createInfo, nullptr, shaderModule) != VK_SUCCESS){
             throw std::runtime_error("failed to create shader module");
