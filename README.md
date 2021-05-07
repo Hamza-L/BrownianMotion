@@ -1,13 +1,8 @@
 # BirdFlock
-A graphics program simulating bird movements. Makes use of the Vulkan API.
+A graphics program simulating Brownian Motion;
 
 ### implementations
-collision avoidance\
-controllable red bird\
-resizing increases/decreases the area of available flight space\
-not limits on window edges\
-trail on red bird can be toggled\
-connections between birds in vicinity
+random motion.
 
 ### Dependencies:
 - glfw (window)
@@ -17,5 +12,5 @@ connections between birds in vicinity
 
 ### Demo of the program:
 
-![birdFlock.gif](birdFlock.gif)
+![brownian.gif](brownian.gif)
 
